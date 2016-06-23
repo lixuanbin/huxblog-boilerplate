@@ -14,7 +14,8 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 weibo_username:     lxbjkben
 github_username:    lixuanbin
-twitter_username:  lixuanbin
+twitter_username:   lixuanbin
+iteye_username:     lixuanbin
 #facebook_username:  xuanbin.li
 
 
@@ -85,5 +86,8 @@ friends: [
     },{
         title: "arganzheng",
         href: "http://blog.arganzheng.me"
+    },{
+        title: "rayleung",
+        href: "http://rayleung.xyz/"
     }
 ]
